@@ -10,6 +10,7 @@ namespace HelloWorld
             string imie = "Irek";
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Druga linijka kodu");
+            Console.WriteLine("3 linijka na githuba");
             double a = 20;
             double b = 10;
             
